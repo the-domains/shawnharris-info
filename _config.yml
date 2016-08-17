@@ -1,8 +1,24 @@
+name: shawnharris.info
+favicon: null
 layout_spectrum: 0.6953405
+typography_spectrum: 0
+title: St. Ranger
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6362007
+  brandColors: []
   brandStrength: 0.5086069
   lightness: 1
+  saturation: 0.6362007
   rhythmicContrast: 0.1756272
-typography_spectrum: 0
-name: shawnharris.info
+purpose: []
